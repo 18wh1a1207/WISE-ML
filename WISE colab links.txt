@@ -1,0 +1,49 @@
+wise assignments chandra's colab links
+1. Hirerachial Clustering
+   https://colab.research.google.com/drive/162d3PCX5RX5cku2liv087VH1O28YoLqO?usp=sharing
+
+2. K-means CLustering
+
+https://colab.research.google.com/drive/1g_skigINGQXnlJw3jyuq2p65Trd5gpLU?usp=sharing
+
+3. Association
+
+https://colab.research.google.com/drive/1xwtWGalUt6pK9P7HGuxzdR_wO_bjF4UH?usp=sharing
+
+4. RNN
+
+https://colab.research.google.com/drive/1Vabp_hi1T-zcMENJC5FhSJMIvKj9yzeh?usp=sharing
+
+5. CNN
+
+https://drive.google.com/file/d/1rCK9Lnpa487S621mZ_n5pN-LjWIGpZxq/view?usp=sharing
+
+6. ANN
+
+https://colab.research.google.com/drive/11FNCfrZ3D-acxY44Df2RLA9txdBfiytZ?usp=sharing
+
+7.Performance metrics
+    https://colab.research.google.com/drive/1twXS5I2JVe-ZWe-noM_4rQ5aYarK07hm?usp=sharing
+
+8.SVM
+
+https://colab.research.google.com/drive/1ivEfSIUmKRiAXD2Jq2qRnlGxUDB0chp9?usp=sharing
+
+9.decision tree
+
+
+10.Linear regression
+https://colab.research.google.com/drive/1CsPNEGv1_at3gLbsQcLWGIbXMsdbnrko?usp=sharing
+
+11.Logistic regression
+12.KNN
+11 & 12
+https://colab.research.google.com/drive/1V5bIx936WSDdkcSzk5jNVNN-gSM8Q1Z0?usp=sharing
+     https://colab.research.google.com/drive/1g_skigINGQXnlJw3jyuq2p65Trd5gpLU
+
+13. NLP 
+  
+https://colab.research.google.com/drive/1MPr_IpuS_oi9VyfKdJWXNGQcxM2DyL4P
+
+14. PCA
+https://colab.research.google.com/drive/1KIZir8gf9Nv6ZrogMxJZnTTZdZ5-ZG1r
